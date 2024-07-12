@@ -1,0 +1,11 @@
+.gif-card {
+  width: 100px;
+  height: 100px;
+}
+
+.gif-container {
+  padding: 5px;
+  width: min-content;
+  border: 2px solid plum;
+  background: brown;
+}
