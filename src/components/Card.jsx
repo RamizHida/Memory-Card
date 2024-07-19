@@ -4,7 +4,7 @@ export function Card({ url }) {
   return (
     <>
       <div className="gif-container">
-        <img src={url} className="gif-card" />
+        <img src={img1} className="gif-card" />
       </div>
     </>
   );
