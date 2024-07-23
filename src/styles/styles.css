@@ -1,11 +1,12 @@
 body {
   background-color: #e87a5d;
   color: #3b5ba5;
+  font-size: 1.5rem;
 }
 
 .gif-card {
-  width: 130px;
-  height: 120px;
+  width: 250px;
+  height: 250px;
   border-radius: 2px;
   padding: 5px;
   background-color: #3b5ba5;
@@ -71,8 +72,9 @@ button:hover {
   transform: scale(1.1);
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 549px) {
   #hint {
     width: 80%;
+    font-size: 1.4rem;
   }
 }
